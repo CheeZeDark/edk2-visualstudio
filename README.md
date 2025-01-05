@@ -2,7 +2,7 @@
 
 Documentation on how to setup an edk2 environment, build it using MSVC and how to create a Visual Studio C++ project to develop UEFI applications.
 
-Inspired by Alex Ionescu's [VisualUefi](https://github.com/ionescu007/VisualUefi) project, but updated 
+Inspired by Alex Ionescu's [VisualUefi](https://github.com/ionescu007/VisualUefi) project, but it uses an edk2 development environment based on the official documentation, and also works using the latest version of it.
 
 ## edk2 Setup
 
