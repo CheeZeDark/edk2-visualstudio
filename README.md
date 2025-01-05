@@ -60,7 +60,7 @@ Steps:
 - Compile the project and add missing PCDs from other compiled AutoGen files (search for the missing definitions inside Build folder).
 - Compilation should be successful.
 
-(Example AutoGen files are included in this project.)
+(Example AutoGen files are included in this project inside the `efi` directory.)
 
 ## Adding additional libraries
 
